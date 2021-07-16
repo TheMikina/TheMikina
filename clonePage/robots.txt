@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: https://www.sdilejteneztozakazou.cz/sitemap.xml
